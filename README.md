@@ -1,1 +1,2 @@
-# my-first-repo
+# Hello Huy
+This is my first repo
